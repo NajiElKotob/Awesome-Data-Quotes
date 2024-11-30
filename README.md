@@ -1,2 +1,2 @@
-# Awesome-Data-Quotes
-Awesome Data Quotes
+# Awesome Data Quotes
+{Awesome Works in Progress}
